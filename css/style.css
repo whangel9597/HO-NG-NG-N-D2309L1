@@ -1,0 +1,169 @@
+@charset "utf-8";
+/* CSS Document */
+.full-page {
+  width: 100%;
+  min-height: 4000px;
+  background-color:black;
+}
+.top-bar {
+  height: 50px;
+  line-height: 45px;
+}
+.top-bar a {
+  color: black;
+  line-height: 45px;
+}
+.top-bar a :hover {
+  color: #dc3545;
+}
+.navbar .navbar-nav .nav-item .nav-link {
+  color:#D6D4D4;
+  font-size: 10pt;
+  padding-left:30px;
+}
+.navbar .navbar-nav .nav-item .nav-link:hover {
+  color: #dc3545;
+}
+#khampha {
+  margin: 60px 0;
+}
+#khampha .content-about-us {
+  margin: 90px 0 10px 50px;
+}
+hr {
+  width: 98%;
+}
+/*
+.shape {
+  weight: 50px;
+  height: 300px;
+  margin: 100px 0px;
+  background-color: transparent;
+}
+*/
+.content-char img {
+  margin-top: 35px;
+}
+.content-char a {
+  text-decoration: none;
+  color: #B9B171;
+}
+.content-char a:hover {
+  color: indianred;
+}
+#movie {
+  width:100%; 
+  min-height: 300px; 
+  background-image: url("../images-jjs/movie2.gif");
+  background-repeat: no-repeat;
+  background-site: cover;
+  background-position: center ;
+  position: relative;
+}
+#backtotop {
+  width: 30px;
+  height: 30px;
+  position: fixed;
+  right: 30px;
+  bottom: 20px;
+  background-color:#212529;
+  color: gray;
+}
+footer
+{
+	min-height:200px;
+	
+}
+footer i
+{
+	padding-bottom:20px;
+}
+footer .navbar-nav .nav-item .nav-link:hover{
+	color:#B9B171;
+}
+.gach-chan
+{
+	padding-bottom: 20px;
+	border-bottom: 2px solid #B9B171;
+}
+.time
+{
+	padding-top:43px;
+}
+.navbar-nav
+{
+	padding:34px;
+}
+#backtotop:hover {
+  background-color: gray;
+  color: white;
+}
+#backtotop i {
+  margin-left: 10px;
+  margin-top: 7px;
+}
+main
+{
+	min-height: 500px;
+}
+footer .mail-ref
+{
+	text-decoration: none;
+	color:white;
+}
+footer .mail-ref:hover
+{
+	color:#B9B171;
+}
+footer .phone-ref:hover
+{
+	color:#B9B171;
+}
+footer .phone-ref
+{
+	text-decoration: none;
+	color:white;
+}
+.last-bar {
+  height: 50px;
+  line-height: 45px;
+}
+#episodes .ep-title
+{
+	text-decoration: none;
+	color:#B9B171;
+	font-weight: 600;
+	font-size: 20px;
+}
+#episodes .ep-title:hover
+{
+	color:#dc3545;
+}
+#episodes .ep-comments
+{
+	text-decoration: none;
+	color:gray;
+
+}
+#episodes .ep-comments:hover
+{
+	color: #B9B171;
+}
+#wiki .more-btn
+{
+	margin-top:65px;
+	margin-left: 50px;
+}
+.ser
+{
+	width: 80%;
+}
+footer .website
+{
+	text-decoration: none;
+	color:white;
+}
+footer .website:hover
+{
+	color:#B9B171;
+}
